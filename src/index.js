@@ -8,7 +8,6 @@ const el = (
     <ul>
       <li>Learn React</li>
       <li>Build Awesome APP</li>
-      <li>Build Awesome APP!</li>
     </ul>
   </div>
 )
